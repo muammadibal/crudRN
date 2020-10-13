@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "muhammad iqbal setiawan",
+      "email": "muammadibal@gmail.com",
+      "bidang": "guru",
+      "id": 2
+    },
+    {
+      "name": "ibal",
+      "email": "ibal@gmail.com",
+      "bidang": "nganggur",
+      "id": 3
+    }
+  ]
+}
